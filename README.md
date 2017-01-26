@@ -19,10 +19,14 @@ composer.json
 ```json
 {
   "require" : {
-    "apatis/array-storage": "^1.0"
+    "apatis/array-storage": "^1"
   }
 }
 ```
+
+# Requirements
+
+- php `>= 5.6`
 
 # License
 
