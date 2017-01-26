@@ -1,0 +1,29 @@
+{
+    "name": "apatis/array-storage",
+    "description": "Array Storage Object",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "array",
+        "object",
+        "storage",
+        "php",
+        "cache",
+        "iteration"
+    ],
+    "authors": [
+        {
+            "name": "nawa",
+            "email": "nawa@yahoo.com",
+            "role": "developer"
+        },
+        {
+            "name": "pentagonal",
+            "email": "org@pentagonal.org",
+            "role": "developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    }
+}
