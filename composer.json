@@ -25,5 +25,15 @@
     ],
     "require": {
         "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Apatis\\ArrayStorage\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Apatis\\ArrayStorage\\Tests\\": "Tests/"
+        }
     }
 }
