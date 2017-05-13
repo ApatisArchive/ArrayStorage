@@ -3,7 +3,7 @@
     "description": "Array Storage Object",
     "type": "library",
     "license": "MIT",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "keywords": [
         "array",
         "object",
