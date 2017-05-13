@@ -159,7 +159,7 @@ class Collection implements ArrayInterface
     public function increment($value)
     {
         $this->storedData[] = $value;
-        $keys = $this->key();
+        $keys = $this->keys();
         return end($keys);
     }
 
